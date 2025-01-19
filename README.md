@@ -38,4 +38,4 @@ This is a React-based frontend project designed for managing tasks and workflows
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system-frontend.git
+   git clone https://github.com/Karannnnn614/EMS.git
